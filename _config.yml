@@ -1,0 +1,28 @@
+name: foster
+favicon: null
+layout_spectrum: 0.4480659600812942
+typography_spectrum: 0.6098197309765965
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3202001212630421
+  lightness: 0.009763110894709826
+  saturation: 0.257723739836365
+  rhythmicContrast: 0.3375902194529772
+purpose: []
